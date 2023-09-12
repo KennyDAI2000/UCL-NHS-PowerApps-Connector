@@ -4,7 +4,7 @@ This project is a part of the University College London MSc Computer Science sum
 
 ## Contents
 
-- **Power Connectors**: Located in the `PowerConnector` folders. These folders contain swagger files that can be directly uploaded to the Power Platform Custom Connector options without needing authentication.
+- **Power Connectors**: Located in the `PowerConnector` folder. This folder contain swagger files that can be directly uploaded to the Power Platform Custom Connector options without needing authentication.
 - **Demonstration Power App**: Find this in the `PowerApps` folder. It showcases a solution built for the NHS crisis mental health service, utilizing the power connectors developed in this project.
 
 ### APIs
@@ -18,7 +18,7 @@ The connectors are based on the APIs found in the following links:
 
 ### Power Connectors
 
-Navigate to the `PowerConnector` folders to find the swagger files. Upload them directly to the Power Platform Custom Connector options. Configuration of authentication is required for the NHS_PDS_FHIR connector, and no further configuration needed for NHS_ODS_FHIR connector.
+Navigate to the `PowerConnector` folder to find the swagger files. Upload them directly to the Power Platform Custom Connector options. Configuration of authentication is required for the NHS_PDS_FHIR connector, and no further configuration needed for NHS_ODS_FHIR connector.
 
 ### Demonstration Power App
 
