@@ -1,6 +1,6 @@
 # UCL NHS Power Apps Connector
 
-This project is a part of the MSc Computer Science summer project in collaboration with NHS and Microsoft. This repository contains two Power Connectors and a demonstration Power App that leverages these connectors.
+This project is a part of the University College London MSc Computer Science summer project in collaboration with NHS and Microsoft. This repository contains two Power Connectors and a demonstration Power App that leverages these connectors.
 
 ## Contents
 
