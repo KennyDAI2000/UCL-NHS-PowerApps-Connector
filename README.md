@@ -24,7 +24,8 @@ Navigate to the `PowerConnector` folders to find the swagger files. Upload them 
 
 1. Go to the `PowerApps` folder.
 2. Find the zip file and upload it directly to Power Apps using the 'Import Canvas App' option.
-3. To ensure the app functions correctly, add the configured power connectors and the embedded Office 365 Outlook connector. Rename the power connectors to "ODS_FHIR_API" and "PDS_FHIR_API".
+3. Allow the Office 365 Outlook connector to access your acount as email sender.
+4. To ensure the app functions correctly, select data on the left bar, add the configured power connectors. Rename the power connectors to "ODS_FHIR_API" and "PDS_FHIR_API".
 
 ## Contact
 
